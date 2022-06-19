@@ -9,7 +9,7 @@ Command Terminal is based on [an implementation by Jonathan Blow](https://youtu.
 
 ## How to install
 
-Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-command-terminal#upm
+Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-command-terminal.git#upm
 
 ## Usage
 
