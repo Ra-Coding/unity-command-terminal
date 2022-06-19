@@ -3,10 +3,6 @@ Unity Command Terminal
 
 A simple and highly performant in-game drop down Console.
 
-![gif](./demo.gif)
-
-Command Terminal is based on [an implementation by Jonathan Blow](https://youtu.be/N2UdveBwWY4) done in the Jai programming language.
-
 ## Usage
 
 Copy the contents from [CommandTerminal](./CommandTerminal) to your Assets folder. Attach a `Terminal` Component to a game object. The console window can be toggled with a hotkey (default is backtick), and another hotkey can be used to toggle the full size window (default is shift+backtick).
